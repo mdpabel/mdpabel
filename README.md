@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=mdpabel.me&style=for-the-badge&url=https%3A%2F%2Fmdpabel.me)](https://mdpabel.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mdpabel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MDPabel72682382)
 
-## I'm a Programmer, Web Developer, and Supporter of Bangladesh Cricket!!
+## I'm a Programmer, Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: JavaScript, React, Nodejs: Under the Hood, Top rated Seller on fiverr as a WordPress security expert
