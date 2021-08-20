@@ -13,8 +13,8 @@
 
 [<img align="left" alt="mdpabel.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MD Pabel | Twitter" width="22px" src="http://mdpabel.me/images/twitter.jpg" />][twitter]
-[<img align="left" alt="MD Pabel | LinkedIn" width="22px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" />][gmail]
-[<img align="left" alt="MD Pabel | Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
+[<img align="left" alt="MD Pabel | LinkedIn" width="22px" src="http://mdpabel.me/images/gmail.jpg" />][gmail]
+[<img align="left" alt="MD Pabel | Instagram" width="22px" src="http://mdpabel.me/images/facebook.jpg" />][facebook]
 
 <br />
 
