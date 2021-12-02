@@ -12,9 +12,6 @@
 ### Connect with me:
 
 [<img align="left" alt="mdpabel.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MD Pabel | Twitter" width="22px" src="http://mdpabel.me/images/twitter.jpg" />][twitter]
-[<img align="left" alt="MD Pabel | LinkedIn" width="22px" src="http://mdpabel.me/images/gmail.jpg" />][gmail]
-[<img align="left" alt="MD Pabel | Instagram" width="22px" src="http://mdpabel.me/images/facebook.jpg" />][facebook]
 
 <br />
 
