@@ -6,7 +6,7 @@
 ## I'm a Learner!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: JavaScript, React, Nodejs: Under the Hood, Top rated Seller on fiverr as a WordPress security expert
+- 🥅 2022 Goals: JavaScript, React, Nodejs, Data structure & algorithm: Under the Hood
 - ⚡ Fun fact: I love to watch movies and play Cricket
 
 ### Connect with me:
