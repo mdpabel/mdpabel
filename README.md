@@ -3,9 +3,6 @@
 [![Website](https://img.shields.io/website?label=mdpabel.me&style=for-the-badge&url=https%3A%2F%2Fmdpabel.me)](http://mdpabel.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mdpabel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MDPabel72682382)
 
-### Connect with me:
-
-[<img align="left" alt="mdpabel.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
