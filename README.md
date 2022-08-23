@@ -59,7 +59,7 @@
 | hackerrank   | [mdpabel385](https://www.hackerrank.com/mdpabel385)                                         | 102         |
 | beecrowd     | [421902](https://www.beecrowd.com.br/judge/en/profile/421902)                             | 42          |
 | codingbat    | [mdpabel385@gmail.com](https://codingbat.com/done?user=mdpabel385@gmail.com&tag=5731298719) | 66          |
-| interviewbit | [md-pabel]([interviewbit.com/profile/md-pabel/solved-problems])                                 | 12          |
+| interviewbit | [md-pabel](interviewbit.com/profile/md-pabel/solved-problems)                                 | 12          |
 | Total        |                                                                                             | 548         |
 
 Last Updated: 23 Aug, 2022
