@@ -45,7 +45,7 @@
 
 <b>&#128200; Problem Solving</b>
 
-<p style="display: flex;"  float="left">
+<p float="left; flex-wrap: nowrap">
 <img height="180em" src="https://leetcard.jacoblin.cool/mdpabel?theme=light&font=Karma&ext=contest" />
 <img height="180em" src="https://codeforces-stats-api.herokuapp.com/stats?username=MD_Pabel" />
 </p>
