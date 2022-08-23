@@ -57,9 +57,9 @@
 | mdpabel      | [mdpabel](https://leetcode.com/mdpabel/)                                                    | 174         |
 | Codeforces   | [MD_Pabel](https://codeforces.com/profile/mdpabel)                                          | 152         |
 | hackerrank   | [mdpabel385](https://www.hackerrank.com/mdpabel385)                                         | 102         |
-| beecrowd     | [sjshohag](https://www.beecrowd.com.br/judge/en/profile/421902)                             | 42          |
+| beecrowd     | [421902](https://www.beecrowd.com.br/judge/en/profile/421902)                             | 42          |
 | codingbat    | [mdpabel385@gmail.com](https://codingbat.com/done?user=mdpabel385@gmail.com&tag=5731298719) | 66          |
-| interviewbit | [YouKnowWho](https://www.interviewbit.com/profile/md-pabel)                                 | 12          |
+| interviewbit | [md-pabel](https://www.interviewbit.com/profile/md-pabel)                                 | 12          |
 | Total        |                                                                                             | 548         |
 
 Last Updated: 23 Aug, 2022
