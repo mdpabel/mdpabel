@@ -19,6 +19,11 @@
 - ⚙️ I use daily: `.js`, `.py`, `.sql`, `.ts`, `.JSON`, `.jsx`, `.tsx`
 - 📫 Reach me: [facebook.com/mdpabe1](https://facebook.com/mdpabe1)
 
+#### Freelance experienced: 
+- 🔥 Fixed 1800+ hacked WordPress site.
+- 📫 Developed 4 React web app.
+- 🚀 Completed order : 968 (Fiverr)
+
 #### My Current Stack
 
 <img height="48" src="js.png" alt="js"> <img height="48" src="nodejs.png" alt="nodejs"> <img height="48" src="react-original.svg" alt="react"> <img height="48" src="python-original.svg" alt="python"> <img height="48" src="mongo.png" alt="mongo"> <img height="48" src="sql.png" alt="sql"> <img height="48" src="next.png" alt="next"> <img height="48" src="ts.png" alt="ts">
