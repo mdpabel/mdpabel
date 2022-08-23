@@ -55,7 +55,7 @@
 | OJ           | Username                                                                                    | Solve Count |
 | ------------ | ------------------------------------------------------------------------------------------- | ----------- |
 | mdpabel      | [mdpabel](https://leetcode.com/mdpabel/)                                                    | 174         |
-| Codeforces   | [MD_Pabel](https://codeforces.com/profile/mdpabel)                                          | 152         |
+| Codeforces   | [MD_Pabel](https://codeforces.com/profile/MD_Pabel)                                          | 152         |
 | hackerrank   | [mdpabel385](https://www.hackerrank.com/mdpabel385)                                         | 102         |
 | beecrowd     | [421902](https://www.beecrowd.com.br/judge/en/profile/421902)                             | 42          |
 | codingbat    | [mdpabel385@gmail.com](https://codingbat.com/done?user=mdpabel385@gmail.com&tag=5731298719) | 66          |
