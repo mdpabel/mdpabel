@@ -38,7 +38,7 @@ Last Updated: 23 Aug, 2022
 
 - 🔥 Fixed 1800+ hacked WordPress site.
 - 📫 Developed 4 React web app.
-- 🚀 Completed order : 968 (Fiverr)
+- 🚀 Completed projects : 968 (Fiverr)
 
 Last Updated: 23 Aug, 2022
 
