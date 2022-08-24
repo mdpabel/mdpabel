@@ -22,8 +22,8 @@
 <a href="mailto:mdpabel385@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
-<a href="https://twitter.com/MDPabel72682382">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+<a href="mailto:mdpabel385@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 </p>
 
