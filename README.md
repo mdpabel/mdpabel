@@ -23,7 +23,7 @@
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 <a href="mailto:mdpabel385@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a> 
 </p>
 
