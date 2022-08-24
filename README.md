@@ -57,7 +57,7 @@ Last Updated: 23 Aug, 2022
 
 | OJ           | Username                                                                                    | Solve Count |
 | ------------ | ------------------------------------------------------------------------------------------- | ----------- |
-| mdpabel      | [mdpabel](https://leetcode.com/mdpabel/)                                                    | 174         |
+| leetcode      | [mdpabel](https://leetcode.com/mdpabel/)                                                    | 174         |
 | Codeforces   | [MD_Pabel](https://codeforces.com/profile/MD_Pabel)                                          | 152         |
 | hackerrank   | [mdpabel385](https://www.hackerrank.com/mdpabel385)                                         | 102         |
 | beecrowd     | [421902](https://www.beecrowd.com.br/judge/en/profile/421902)                             | 42          |
