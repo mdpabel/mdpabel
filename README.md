@@ -1,9 +1,6 @@
 ## Hi 👋, I'm MD Pabel
 
 <p align="left">
-  <a href="https://leetcode.com/mdpabel/">
-    <img src="https://cp-logo.vercel.app/leetcode/mdpabel" alt="Leet code rating" />
-  </a>
   <a href="https://github.com/mdpabel?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdpabel?color=green&logo=github">
   </a>
@@ -36,11 +33,11 @@ Last Updated: 23 Aug, 2022
 
 #### Freelance experienced: 
 
-- 🔥 Fixed 1800+ hacked WordPress site.
-- 📫 Developed 4 React web app.
-- 🚀 Completed projects : 968 (Fiverr)
+- 🔥 Fixed 2200+ hacked WordPress site.
+- 📫 Developed 10+ React web app.
+- 🚀 Completed projects : 1061 (Contract basis)
 
-Last Updated: 23 Aug, 2022
+Last Updated: November 20, 2022
 
 #### My Current Stack :
 
@@ -48,24 +45,11 @@ Last Updated: 23 Aug, 2022
 
 <b>&#128200; Problem Solving</b>
 
-<p float="left; flex-wrap: nowrap">
+<p style="display: flex;" float="left">
 <img height="180em" src="https://leetcard.jacoblin.cool/mdpabel?theme=light&font=Karma&ext=contest" />
 <img height="180em" src="https://codeforces-stats-api.herokuapp.com/stats?username=MD_Pabel" />
 </p>
 
-# Problem Solving Stats :
-
-| OJ           | Username                                                                                    | Solve Count |
-| ------------ | ------------------------------------------------------------------------------------------- | ----------- |
-| leetcode      | [mdpabel](https://leetcode.com/mdpabel/)                                                    | 174         |
-| Codeforces   | [MD_Pabel](https://codeforces.com/profile/MD_Pabel)                                          | 152         |
-| hackerrank   | [mdpabel385](https://www.hackerrank.com/mdpabel385)                                         | 102         |
-| beecrowd     | [421902](https://www.beecrowd.com.br/judge/en/profile/421902)                             | 42          |
-| codingbat    | [mdpabel385@gmail.com](https://codingbat.com/done?user=mdpabel385@gmail.com&tag=5731298719) | 66          |
-| interviewbit | [md-pabel](https://www.interviewbit.com/profile/md-pabel/solved-problems)                                 | 12          |
-| Total        |                                                                                             | 548         |
-
-Last Updated: 23 Aug, 2022
 
 <b>⚡ Github Stats</b>
 
