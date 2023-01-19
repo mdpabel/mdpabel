@@ -27,17 +27,13 @@
 #### Bio :
 
 - 🏢 I'm currently working at **theconversionguru** as a Security & Malware Specialist.
+- 🔥 Fixed 2200+ hacked WordPress site.
+- 🚀 Completed projects : 1261 (Contract basis)
 - ⚙️ I use daily: `.js`, `.py`, `.sql`, `.ts`, `.JSON`, `.jsx`, `.tsx`
 - 📫 Reach me: [facebook.com/mdpabe1](https://facebook.com/mdpabe1)
-Last Updated: 23 Aug, 2022
-
-#### Freelance experienced: 
-
-- 🔥 Fixed 2200+ hacked WordPress site.
 - 📫 Developed 10+ React web app.
-- 🚀 Completed projects : 1061 (Contract basis)
 
-Last Updated: November 20, 2022
+Last Updated: November 19, 2023
 
 #### My Current Stack :
 
