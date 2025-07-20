@@ -1,56 +1,45 @@
-## Hi 👋, I'm MD Pabel
+# MD Pabel 🚀
 
-<p align="left">
-  <a href="https://github.com/mdpabel?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdpabel?color=green&logo=github">
-  </a>
-  <a href="https://github.com/mdpabel/">
-    <img src="https://komarev.com/ghpvc/?username=mdpabel" alt="visitors" />
-  </a>
+**Build. Secure. Scale.**
 
-</p>
+Full-Stack Dev & Security Expert | 7+ Yrs | Remote Worldwide | [mdpabel.com](https://mdpabel.com)
 
-#### Connect With Me
+Crafting secure, scalable web solutions for global clients at 3Zero Digital. Malware slayer, code architect, performance optimizer.
 
-<p left="center">
-<a href="https://www.facebook.com/mdpabe1">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
-<a href="mailto:mdpabel385@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-<a href="mailto:mdpabel385@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a> 
-</p>
+## Core Expertise
 
-#### Bio :
+- **Langs**: JS/TS, Python, PHP, HTML/CSS
+- **Front**: React, Next.js, Tailwind, Vue, Angular
+- **Back**: Node/Express, FastAPI
+- **DB/Tools**: MongoDB/PostgreSQL/MySQL/Redis, Git/Docker/Vercel, WordPress/Woocommerce
+- **Security**: Malware Removal, Fix Hacked, Blacklist Removal, Hardening, SSL, Server Management.
 
-- 🏢 I'm currently working at **theconversionguru** as a Security & Malware Specialist.
-- 🔥 Fixed 2200+ hacked WordPress site.
-- 🚀 Completed projects : 1261 (Contract basis)
-- ⚙️ I use daily: `.js`, `.py`, `.sql`, `.ts`, `.JSON`, `.jsx`, `.tsx`
-- 📫 Reach me: [facebook.com/mdpabe1](https://facebook.com/mdpabe1)
-- 📫 Developed 10+ React web app.
+## Services
 
-Last Updated: November 19, 2023
-
-#### My Current Stack :
-
-<img height="48" src="js.png" alt="js"> <img height="48" src="nodejs.png" alt="nodejs"> <img height="48" src="react-original.svg" alt="react"> <img height="48" src="python-original.svg" alt="python"> <img height="48" src="mongo.png" alt="mongo"> <img height="48" src="sql.png" alt="sql"> <img height="48" src="next.png" alt="next"> <img height="48" src="ts.png" alt="ts">
-
-<b>&#128200; Problem Solving</b>
-
-<p style="display: flex;" float="left">
-<img height="180em" src="https://leetcard.jacoblin.cool/mdpabel?theme=light&font=Karma" />
-</p>
+🛡️ **Security & Malware**: Cleanup, hardening, threat protection.
+💻 **Full-Stack Dev**: Custom apps with React / Next.js / Node.js / DB integrations.
+🔧 **Maintenance**: Updates, optimization, bug fixes.
+🖥️ **WordPress**: Themes, plugins, e-commerce, migrations.
+🛠️ **Troubleshooting**  
+- **HTTP Errors**: 403, 404, 500, 502, 503  
+- **SSL Issues**: Mixed content, invalid certificates  
+- **Server Issues**: DNS, cPanel, Hosting, Email  
+- **Security**: Malware, Virus, Blacklists
+- **CMS Issues**: Broken WordPress sites, theme/plugin conflicts  
+- **Code Errors**: Fatal error, Critical error, PHP errors, JS errors, SQL errors, DB lock, DB connection errors  
+- **Visual/UI Issues**: CSS bugs, broken layouts, missing assets  
+- **API & Integration Errors**  
+- **Deployment & Build Failures**
 
 
-<b>⚡ Github Stats</b>
+## Impact
 
-<p style="display: flex;" float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdpabel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpabel&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+- 4500+ Sites Secured | 300+ Domains Recovered
+- 1600+ Projects | 1600+ Happy Clients (Fiverr: 5.0 | Upwork: 100%)
+- Roles: Full-Stack @ Trueline (USA) | Next.js @ CollectDev (Canada)
+- Extras: 800+ DSA Solved | Coffee Addict ☕ | Gamer (3500+ Matches, 50% Win)
 
+## Connect
 
+[GitHub](https://github.com) | [LinkedIn](https://linkedin.com) | [Twitter](https://twitter.com)   | [3Zerodigital](https://3zerodigital.com)  
+Email: support@mdpabel.com | support@3zerodigital.com | GMT+6
