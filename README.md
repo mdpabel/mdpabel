@@ -16,20 +16,20 @@ Crafting secure, scalable web solutions for global clients at 3Zero Digital. Mal
 
 ## Services
 
-🛡️ **Security & Malware**: Cleanup, hardening, threat protection.
-💻 **Full-Stack Dev**: Custom apps with React / Next.js / Node.js / DB integrations.
-🔧 **Maintenance**: Updates, optimization, bug fixes.
-🖥️ **WordPress**: Themes, plugins, e-commerce, migrations.
-🛠️ **Troubleshooting**  
-- **HTTP Errors**: 403, 404, 500, 502, 503  
-- **SSL Issues**: Mixed content, invalid certificates  
-- **Server Issues**: DNS, cPanel, Hosting, Email  
-- **Security**: Malware, Virus, Blacklists
-- **CMS Issues**: Broken WordPress sites, theme/plugin conflicts  
-- **Code Errors**: Fatal error, Critical error, PHP errors, JS errors, SQL errors, DB lock, DB connection errors  
-- **Visual/UI Issues**: CSS bugs, broken layouts, missing assets  
-- **API & Integration Errors**  
-- **Deployment & Build Failures**
+- 🛡️ **Security & Malware**: Cleanup, hardening, threat protection.
+- 💻 **Full-Stack Dev**: Custom apps with React / Next.js / Node.js / DB integrations.
+- 🔧 **Maintenance**: Updates, optimization, bug fixes.
+- 🖥️ **WordPress**: Themes, plugins, e-commerce, migrations.
+- 🛠️ **Troubleshooting**  
+  - **HTTP Errors**: 403, 404, 500, 502, 503  
+  - **SSL Issues**: Mixed content, invalid certificates  
+  - **Server Issues**: DNS, cPanel, Hosting, Email  
+  - **Security**: Malware, Virus, Blacklists  
+  - **CMS Issues**: Broken WordPress sites, theme/plugin conflicts  
+  - **Code Errors**: Fatal error, Critical error, PHP errors, JS errors, SQL errors, DB lock, DB connection errors  
+  - **Visual/UI Issues**: CSS bugs, broken layouts, missing assets  
+  - **API & Integration Errors**  
+  - **Deployment & Build Failures**
 
 
 ## Impact
